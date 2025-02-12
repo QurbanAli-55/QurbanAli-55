@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Qurban Ali</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Qurban Ali</h1>
+<h3 align="center">A passionate Data Analyst & Business Intelligence from Pakistan</h3>
 <img align="right" alt="coding"width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qurbanali-55&label=Profile%20views&color=0e75b6&style=flat" alt="qurbanali-55" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Web Development,**
+- 🌱 I’m currently learning **Machine Learning, Automation,**
 
-- 💬 Ask me about **Data Analyst**
+- 💬 Ask me about **Data Analyst & Business Intelligence**
 
 - ⚡ Fun fact **I am a Joker**
 
