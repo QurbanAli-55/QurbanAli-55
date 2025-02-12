@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Qurban Ali</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
-<h1 align="center">Hi 👋, I'm Qurban Ali</h1>
 <h3 align="center">A passionate Data Analyst & Business Intelligence from Pakistan</h3>
 <img align="right" alt="coding"width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
