@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qurbanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qurbanali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/katohar qurban ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katohar qurban ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/katohar-qurban-ali-727098283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katohar qurban ali" height="30" width="40" /></a>
 <a href="https://kaggle.com/qurban ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="qurban ali" height="30" width="40" /></a>
 <a href="https://instagram.com/qurban ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qurban ali" height="30" width="40" /></a>
 </p>
